@@ -1,3 +1,4 @@
-#### Linux基础课
-
-#### 6. thrift教程
+### thrift练习
+```{c++}
+#include <bits>
+```
